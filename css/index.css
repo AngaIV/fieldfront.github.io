@@ -8,8 +8,8 @@ body{
     top: 0;
     height: 100vh;
     width: 100%;
-    background: #382457;
-    background: linear-gradient(295deg, rgba(56, 36, 87, 1) 0%, rgba(49, 30, 77, 1) 35%, rgba(31, 23, 47, 1) 100%);
+    background: #2a1a45;
+    background: linear-gradient(295deg, rgba(42, 26, 69, 1) 0%, rgba(34, 21, 54, 1) 22%, rgba(17, 12, 26, 1) 100%);
 }
 
 .text_info h1{
