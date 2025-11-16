@@ -6,7 +6,6 @@ body{
 
 .hero_section{
     top: 0;
-    height: 100vh;
     width: 100%;
     background: #382457;
     background: linear-gradient(295deg, rgba(56, 36, 87, 1) 0%, rgba(49, 30, 77, 1) 35%, rgba(31, 23, 47, 1) 100%);
